@@ -2,6 +2,6 @@
 
 Inspirations:
 
-- Andrej Karpathy's YouTube video: Let's build GPT: from scratch, in code, spelled out (personalised words, data, possible ways of extending)
-
-- Build a Large Language Model (From Scratch) book by Sebastian Raschka
+- Andrej Karpathy's YouTube channel: Intro to LLM's
+- Hands-On Large Language Models book by Jay Almaar
+- Stanford YouTube video on LLMs
